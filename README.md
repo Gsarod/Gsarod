@@ -1,4 +1,4 @@
-# 🏫 Future student at Ynov Campus Bordeaux in Cybersecurity
+# 🏫 Future student at Ynov Campus in Cybersecurity
 
 
 # 💻 Tech Stack:
