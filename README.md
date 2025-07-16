@@ -1,4 +1,4 @@
-# 🏫 Future student at Ynov Campus in Cybersecurity
+# Junior dev :3
 
 
 # 💻 Tech Stack:
@@ -10,10 +10,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gsarod&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Gsarod&icon=0&color=12)](https://visitcount.itsvg.in)
 
