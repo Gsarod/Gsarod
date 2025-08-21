@@ -1,4 +1,4 @@
-# Junior dev :3
+# HIATUS, I'm re-learing evertything sowwwy :c 
 
 
 # 💻 Tech Stack:
